@@ -1,0 +1,6 @@
+{
+  "name": "ChordPro Songbook",
+  "description": "Installable digital songbook web app with ChordPro rendering, transposing, auto-scroll, PDF sheet sharing, and Google Drive database syncing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
